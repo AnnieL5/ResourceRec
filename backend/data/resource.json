@@ -1,0 +1,252 @@
+{"resources": [
+    {
+      "title": "Python Basics Tutorial",
+      "topic": "Python",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Intro to Machine Learning",
+      "topic": "Machine Learning",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Advanced React Patterns",
+      "topic": "React",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "SQL Query Fundamentals",
+      "topic": "SQL",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "AWS Cloud Essentials",
+      "topic": "Cloud Computing",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Cybersecurity Basics",
+      "topic": "Cybersecurity",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Data Structures in Java",
+      "topic": "Java",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Deep Learning with TensorFlow",
+      "topic": "AI",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "Responsive Web Design Guide",
+      "topic": "CSS",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Node.js API Development",
+      "topic": "Backend Development",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Flutter App Crash Course",
+      "topic": "Flutter",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Linux Command Line Essentials",
+      "topic": "Linux",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Docker for Developers",
+      "topic": "DevOps",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Unity Game Development Basics",
+      "topic": "Game Development",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Blockchain Smart Contracts",
+      "topic": "Blockchain",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "Excel for Data Analysis",
+      "topic": "Excel",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Computer Vision Fundamentals",
+      "topic": "Computer Vision",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "SwiftUI Essentials",
+      "topic": "iOS Development",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Networking Basics",
+      "topic": "Networking",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Natural Language Processing Intro",
+      "topic": "NLP",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Advanced SQL Optimization",
+      "topic": "Databases",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "Git and GitHub Workflow",
+      "topic": "Version Control",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Kubernetes Deployment Guide",
+      "topic": "DevOps",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "JavaScript ES6 Features",
+      "topic": "JavaScript",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "HTML5 Complete Course",
+      "topic": "HTML",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Ethical Hacking Lab",
+      "topic": "Cybersecurity",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "Tableau Dashboard Design",
+      "topic": "Data Visualization",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Intro to Robotics Programming",
+      "topic": "Robotics",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "C# for Beginners",
+      "topic": "C#",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Advanced Python Automation",
+      "topic": "Python",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "React Native Mobile Apps",
+      "topic": "React Native",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Data Science with Pandas",
+      "topic": "Data Science",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Algorithms and Problem Solving",
+      "topic": "Algorithms",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Quantum Computing Explained",
+      "topic": "Quantum Computing",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "Blender 3D Fundamentals",
+      "topic": "3D Modeling",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "REST API Design Principles",
+      "topic": "Backend Development",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Cloud Security Best Practices",
+      "topic": "Cloud Security",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "Introduction to TypeScript",
+      "topic": "TypeScript",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Vue.js Essentials",
+      "topic": "Vue.js",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "MongoDB Database Basics",
+      "topic": "MongoDB",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Advanced CSS Animations",
+      "topic": "CSS",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "AWS Lambda Serverless Apps",
+      "topic": "Cloud Computing",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Penetration Testing Workshop",
+      "topic": "Ethical Hacking",
+      "difficulty": "Advanced"
+    },
+    {
+      "title": "Android Development with Kotlin",
+      "topic": "Android Development",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Statistics for Data Science",
+      "topic": "Statistics",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Intro to Artificial Intelligence",
+      "topic": "AI",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "GraphQL API Fundamentals",
+      "topic": "GraphQL",
+      "difficulty": "Intermediate"
+    },
+    {
+      "title": "Firebase Backend Setup",
+      "topic": "Firebase",
+      "difficulty": "Beginner"
+    },
+    {
+      "title": "Advanced Linux Administration",
+      "topic": "Linux",
+      "diffibculty": "Advanced"
+    },
+    {
+      "title": "UI/UX Design Principles",
+      "topic": "Design",
+      "difficulty": "Beginner"
+    }
+  ]}

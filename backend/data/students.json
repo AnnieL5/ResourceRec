@@ -1,0 +1,127 @@
+{"students": [
+    {
+      "goal": "Learn Python for data science",
+      "level": "Beginner",
+      "interests": ["AI", "programming"]
+    },
+    {
+      "goal": "Build mobile apps with Flutter",
+      "level": "Intermediate",
+      "interests": ["mobile development", "UI/UX"]
+    },
+    {
+      "goal": "Master JavaScript for web development",
+      "level": "Beginner",
+      "interests": ["frontend", "React"]
+    },
+    {
+      "goal": "Understand machine learning fundamentals",
+      "level": "Intermediate",
+      "interests": ["AI", "data science"]
+    },
+    {
+      "goal": "Prepare for cybersecurity certifications",
+      "level": "Advanced",
+      "interests": ["network security", "ethical hacking"]
+    },
+    {
+      "goal": "Create games with Unity",
+      "level": "Beginner",
+      "interests": ["game development", "C#"]
+    },
+    {
+      "goal": "Learn cloud computing with AWS",
+      "level": "Intermediate",
+      "interests": ["cloud", "DevOps"]
+    },
+    {
+      "goal": "Improve SQL and database design skills",
+      "level": "Intermediate",
+      "interests": ["databases", "backend"]
+    },
+    {
+      "goal": "Study computer vision applications",
+      "level": "Advanced",
+      "interests": ["AI", "image processing"]
+    },
+    {
+      "goal": "Build APIs using Node.js",
+      "level": "Intermediate",
+      "interests": ["backend", "JavaScript"]
+    },
+    {
+      "goal": "Learn HTML and CSS from scratch",
+      "level": "Beginner",
+      "interests": ["web design", "frontend"]
+    },
+    {
+      "goal": "Explore blockchain development",
+      "level": "Advanced",
+      "interests": ["crypto", "smart contracts"]
+    },
+    {
+      "goal": "Develop iOS apps with Swift",
+      "level": "Intermediate",
+      "interests": ["mobile apps", "Apple ecosystem"]
+    },
+    {
+      "goal": "Understand algorithms and data structures",
+      "level": "Intermediate",
+      "interests": ["coding interviews", "problem solving"]
+    },
+    {
+      "goal": "Learn robotics programming",
+      "level": "Beginner",
+      "interests": ["engineering", "automation"]
+    },
+    {
+      "goal": "Analyze business data using Excel",
+      "level": "Beginner",
+      "interests": ["analytics", "business intelligence"]
+    },
+    {
+      "goal": "Learn penetration testing techniques",
+      "level": "Advanced",
+      "interests": ["cybersecurity", "Linux"]
+    },
+    {
+      "goal": "Create 3D models with Blender",
+      "level": "Intermediate",
+      "interests": ["3D art", "animation"]
+    },
+    {
+      "goal": "Understand natural language processing",
+      "level": "Advanced",
+      "interests": ["AI", "linguistics"]
+    },
+    {
+      "goal": "Build responsive websites",
+      "level": "Beginner",
+      "interests": ["CSS", "web development"]
+    },
+    {
+      "goal": "Learn Java for software engineering",
+      "level": "Intermediate",
+      "interests": ["backend", "object-oriented programming"]
+    },
+    {
+      "goal": "Study networking fundamentals",
+      "level": "Beginner",
+      "interests": ["IT", "infrastructure"]
+    },
+    {
+      "goal": "Deploy applications with Docker",
+      "level": "Intermediate",
+      "interests": ["containers", "DevOps"]
+    },
+    {
+      "goal": "Learn data visualization with Tableau",
+      "level": "Intermediate",
+      "interests": ["analytics", "dashboards"]
+    },
+    {
+      "goal": "Research quantum computing basics",
+      "level": "Advanced",
+      "interests": ["physics", "emerging tech"]
+    }
+  ]}
